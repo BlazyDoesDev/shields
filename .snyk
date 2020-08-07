@@ -6,3 +6,21 @@ patch:
   'npm:ws:20160920':
     - camp > socket.io > socket.io-client > ws:
         patched: '2020-08-06T23:27:54.352Z'
+  'npm:hoek:20180212':
+    - ass > gh-badges > phantomjs > request > hawk > hoek:
+        patched: '2020-08-07T01:23:31.323Z'
+    - ass > gh-badges > phantomjs > request > hawk > boom > hoek:
+        patched: '2020-08-07T01:23:31.323Z'
+    - ass > gh-badges > phantomjs > request > hawk > sntp > hoek:
+        patched: '2020-08-07T01:23:31.323Z'
+    - ass > gh-badges > phantomjs > request > hawk > cryptiles > boom > hoek:
+        patched: '2020-08-07T01:23:31.323Z'
+  'npm:request:20160119':
+    - ass > gh-badges > phantomjs > request:
+        patched: '2020-08-07T01:23:31.323Z'
+  'npm:tough-cookie:20170905':
+    - ass > gh-badges > phantomjs > request > tough-cookie:
+        patched: '2020-08-07T01:23:31.323Z'
+  'npm:tunnel-agent:20170305':
+    - ass > gh-badges > phantomjs > request > tunnel-agent:
+        patched: '2020-08-07T01:23:31.323Z'
