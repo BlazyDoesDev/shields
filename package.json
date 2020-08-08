@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "ass": "~0.0.6",
-    "should": "~3.0.0",
+    "should": "~3.3.2",
     "mocha": "~1.14.0"
   },
   "scripts": {
